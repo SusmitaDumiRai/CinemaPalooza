@@ -1,0 +1,53 @@
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza - MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza - MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza - MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza - MetroFramework\EmployeeApp\bin\Debug\MetroFramework.Design.dll
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza - MetroFramework\EmployeeApp\bin\Debug\MetroFramework.dll
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza - MetroFramework\EmployeeApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.frmMain.resources
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.Cache
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza---MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza---MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza---MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza---MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza---MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza---MetroFramework\EmployeeApp\bin\Debug\MetroFramework.Design.dll
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza---MetroFramework\EmployeeApp\bin\Debug\MetroFramework.dll
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza---MetroFramework\EmployeeApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza---MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza---MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.frmMain.resources
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza---MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza---MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.Cache
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.frmLogin.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.frmMain.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.Cache
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.frmLogin.resources
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.frmMain.resources
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.Cache
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.frmLogin.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.frmMain.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.Cache
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\EmployeeApp\obj\Debug\EmployeeApp.pdb

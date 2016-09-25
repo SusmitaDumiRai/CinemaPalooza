@@ -1,0 +1,50 @@
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CinemaPalooza---MetroFramework\CustomerApp\bin\Debug\CustomerApp.exe.config
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\bin\Debug\CustomerApp.exe.config
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\bin\Debug\CustomerApp.exe
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\bin\Debug\CustomerApp.pdb
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\bin\Debug\EmployeeApp.exe
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\bin\Debug\MetroFramework.Design.dll
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\bin\Debug\MetroFramework.dll
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\bin\Debug\EmployeeApp.pdb
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.csprojResolveAssemblyReference.cache
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmCheckReservation.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmHomepage.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmLogin.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmLoginRegister.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmMakeReservation.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmRegister.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmReservationConfirmed.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmReservationDetails.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmSelectSeat.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmShowMovie.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.Properties.Resources.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.csproj.GenerateResource.Cache
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.exe
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza---MetroFramework\CustomerApp\obj\Debug\CustomerApp.pdb
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\bin\Debug\CustomerApp.exe.config
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.exe
+C:\Users\susmita\Documents\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.pdb
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\bin\Debug\CustomerApp.exe.config
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\bin\Debug\CustomerApp.exe
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\bin\Debug\CustomerApp.pdb
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\bin\Debug\EmployeeApp.exe
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\bin\Debug\MetroFramework.Design.dll
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\bin\Debug\MetroFramework.dll
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\bin\Debug\EmployeeApp.pdb
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.csprojResolveAssemblyReference.cache
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmCheckReservation.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmHomepage.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmLogin.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmLoginRegister.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmMakeReservation.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmRegister.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmReservationConfirmed.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmReservationDetails.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmSelectSeat.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.frmShowMovie.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.Properties.Resources.resources
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.csproj.GenerateResource.Cache
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.exe
+C:\Users\srai4\Documents\A2 Computing\FINAL PROJECT\CinemaPalooza - MetroFramework\CustomerApp\obj\Debug\CustomerApp.pdb
