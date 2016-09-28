@@ -1,7 +1,7 @@
 # CinemaPalooza
 
 CinemaPalooza is a windows application created in C# for A2 Computing Project Unit 4 which targets two users; customers and employees. 
-Customers are able to book, cancel and amend their reservations whilst the employees can view a dynamically created overview of the reservations and information of customers and employees. All information such as reservation details, is stored in a database.
+Customers are able to book, cancel and amend their reservations whilst the employees can view a dynamically created overview of the reservations and information of customers and employees. All information such as reservation details is stored in a database.
 ### Customer  
 ![alt text][customer]
 
